@@ -1,16 +1,18 @@
-navigation-top{
+#body{
+	
+}
+
+#navigation-top{
 	position: absolute;
 }
-header{
+#header{
 	background: 6699cc;
 	height: 20px;
 	width: 1000px;
 	font-size: 12;
 	font-family: Arial;
-	
-	
 }
-.logo{
+#logo{
 	position: absolute;
 	top: 25px;
 	left: 425px;
@@ -24,11 +26,5 @@ navigation-info{
 }
 
 navigation-footer{
-	
-}
-
-body{
-	background: green;
-	
 	
 }
