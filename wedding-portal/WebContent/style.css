@@ -1,4 +1,4 @@
-navi-top{
+navigation-top{
 	position: absolute;
 }
 header{
@@ -15,16 +15,20 @@ header{
 	top: 25px;
 	left: 425px;
 }
-navi-main{
+navigation-main{
 	
 }
 
-footer{
+navigation-info{
+	
+}
+
+navigation-footer{
 	
 }
 
 body{
-	background: white;
+	background: green;
 	
 	
 }
