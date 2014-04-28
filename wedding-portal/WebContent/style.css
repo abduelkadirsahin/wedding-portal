@@ -1,30 +1,22 @@
-#body{
-	
+.vend-reg{
+	padding:500px;
+}
+.sep1 {
+	margin-top:top-bottom-val right-left-val;
 }
 
-#navigation-top{
-	position: absolute;
 }
-#header{
-	background: 6699cc;
-	height: 20px;
-	width: 1000px;
-	font-size: 12;
-	font-family: Arial;
-}
-#logo{
-	position: absolute;
-	top: 25px;
-	left: 425px;
-}
-navigation-main{
-	
+.wrapper-top-sect{
+	background: blue;
 }
 
-navigation-info{
-	
+.main-top-nav{
+	background: #b0e0e6;
 }
 
-navigation-footer{
-	
+.header-inner{
+	background-color:white;
+}
+.home-hcnt-wrapper{
+	background-image: url(Bild2.png);
 }
