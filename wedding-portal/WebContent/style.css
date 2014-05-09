@@ -5,13 +5,8 @@
 	margin-top:top-bottom-val right-left-val;
 }
 
-}
 .wrapper-top-sect{
 	background: blue;
-}
-
-.main-top-nav{
-	background: #b0e0e6;
 }
 
 .header-inner{
@@ -20,3 +15,55 @@
 .home-hcnt-wrapper{
 	background-image: url(Bild2.png);
 }
+
+.main-top-nav {
+	background-color: #2BEDF4;
+	font-family: arial;
+}
+
+  ul#Navigation {
+    margin: 0; padding: 0.8em;
+    text-align: center;
+    background-color: #24A1A5;
+  }
+  ul#Navigation li {
+    list-style: none;
+    display: inline;
+    margin: 0.4em; padding: 0;
+  }
+
+  ul#Navigation a, ul#Navigation span {
+    padding: 0.2em 1em;
+    text-decoration: none; font-weight: bold;
+    border: 1px solid black;
+    border-left-color: white; border-top-color: white;
+    color: white; background-color: #219498;
+  }
+  * html ul#Navigation a, * html ul#Navigation span {
+    width: 1em;    /* nur fuer IE 5.0x erforderlich */
+    width: auto;  /* sicherheitshalber fuer IE 6 zurueckgesetzt */
+  }
+  ul#Navigation a:hover, ul#Navigation span {
+    border-color: white;
+    border-left-color: black; border-top-color: black;
+    color: white; background-color: #1B797C;
+  }
+  
+  .main-outer-container {
+  	text-align: center;
+  }
+  
+  .main_mid_left_area {
+  	text-align: center;
+  }
+  
+  .main_btm_area {
+  	text-align: center;
+  }
+  
+
+   a{ 
+             background-image:url(../pics/Bild16.jpg);
+             width:150px; height:150px; }
+   a:hover { background-image:url(../pics/Bild15.jpg);
+   width: 300px; height:300px; }
