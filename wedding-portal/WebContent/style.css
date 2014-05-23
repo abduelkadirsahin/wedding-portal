@@ -6,7 +6,7 @@
 ul#Navigation {
     margin: 0; padding: 0.8em;
     text-align: center;
-    background-color: #24A1A5;
+    background-color: #7F9F97;
 }
 
 ul#Navigation li {
@@ -20,7 +20,9 @@ ul#Navigation a, ul#Navigation span {
     text-decoration: none; font-weight: bold;
     border: 1px solid black;
     border-left-color: white; border-top-color: white;
-    color: white; background-color: #219498;
+    color: white; background-color: #7F9F97;
+    font-family: arial;
+    text-shadow:black 2px 1px;
 }
 
 * html ul#Navigation a, * html ul#Navigation span {
@@ -31,17 +33,11 @@ ul#Navigation a, ul#Navigation span {
 ul#Navigation a:hover, ul#Navigation span {
     border-color: white;
     border-left-color: black; border-top-color: black;
-    color: white; background-color: #1B797C;
+    color: white; background-color: #5F887E;
 }
 
-table {
-	align: center;
-}
-#ueberschrift {
-	font-family: Lucida Calligraphy;
-	color: #219498;
-	position: absolute;
-	left: 50px;
+.main-all {
+	text-align: center;
 }
 
 #menue p {
@@ -49,9 +45,24 @@ table {
 	color: #219498;
 	margin: 2px;
 }
- 
+
 #seitengroesse {
-	margin-top: 250px;
 	margin-left: 200px;
 	margin-right: 200px;
+	background-color: white;
 }
+
+a {
+	 text-decoration: none;
+	
+}
+
+body {
+	background-color: #ACD3CA;
+	text-align: center;
+}
+
+#banner {
+	padding: 1px;
+}
+
